@@ -3,7 +3,7 @@ import university from '../assets/university.jpg'
 
 const University = () => {
     return (
-        <div className='w-full h-screen flex justify-center items-center bg-gradient-to-b from-black to-gray-800'>
+        <div className=' pt-20 w-full min-h-screen flex justify-center items-center bg-gradient-to-b from-black to-gray-800'>
             <div className='max-w-screen-lg mx-auto my-auto px-5 flex flex-col justify-center items-center md:flex-row'>
                 <div className='flex flex-col justify-center h-full '>
                     <h2 className='text-4xl font-bold text-white md:text-5xl'>
