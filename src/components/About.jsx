@@ -1,5 +1,5 @@
 import React from 'react'
-import saadmalik from "../assets/saadmalik.jpg"
+
 
 const About = () => {
     return (
